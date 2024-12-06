@@ -1,5 +1,6 @@
 # Dependencies
 Before cloning this repo, install the dependencies:
+- Powershell (duh?)
 - [scoop](#scoop)
 - [Terminal Icons](#terminal-icons)
 - [NerdFonts](#nerd-fonts) (or any font to be compatible with terminal icons and oh-my-posh)
