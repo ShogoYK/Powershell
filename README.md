@@ -47,10 +47,10 @@ Either way, we'll do it by:
 SSH:
 
 ```bash
-git clone git@github.com:ShogoYK/Powershell.git $HOME/
+git clone git@github.com:ShogoYK/Powershell.git $HOME/Documents/
 ```
 
 HTTPS:
 ```bash
-git clone https://github.com/ShogoYK/Powershell.git $HOME/
+git clone https://github.com/ShogoYK/Powershell.git $HOME/Documents/
 ```
