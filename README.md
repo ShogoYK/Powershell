@@ -54,3 +54,8 @@ HTTPS:
 ```bash
 git clone https://github.com/ShogoYK/Powershell.git $HOME/Documents/
 ```
+
+
+## Next steps:
+
+[Clone your scripts](https://github.com/ShogoYK/pwsh-scripts)!
